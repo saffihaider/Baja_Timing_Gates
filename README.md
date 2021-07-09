@@ -4,5 +4,11 @@
     * Start and stop times will be recorded by arduino connected to both sensors
     * All code will be commited as .ino file type
     * Arduino UNO board is being used
-    * Future idea is to communicate between start and finish line with X-Bee
     * Currently, standard 14/2 wire will be used to relay switch response
+   
+  * To do:
+    * Replace cables between start/stop sensors with X-Bee or Bluetooth module (with minimum delay and maximum accuracy)
+     * Can be done using a buffer
+    * Add mechanism to hold tubes down to prevent them from getting stuck in between tire threads
+    * Preferrably accurate to the millisecond, but up to 1 second accuracy is sufficient
+    
