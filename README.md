@@ -11,4 +11,6 @@
      * Can be done using a buffer
     * Add mechanism to hold tubes down to prevent them from getting stuck in between tire threads
     * Preferrably accurate to the millisecond, but up to 1 second accuracy is sufficient
+    * Test with 400 lb weight
+    * Use rubber plugs on other side of tubing
     
